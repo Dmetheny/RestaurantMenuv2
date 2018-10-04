@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dylan-PC\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Project2.1941325826.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Dylan-PC\Desktop\CollegeFall2018\Business Application Development\Projects\Project 2\Project2" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Project2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Project2.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="05STRAWSHORTCAKE-articleLarge.jpg" t="Include" />
+          <e p="Best-Easy-Pasta-Salad-Recipe2.jpg" t="Include" />
+          <e p="download (2).jpg" t="Include" />
+          <e p="layered-watermelon-smoothie-620x320_09b423f7-862d-4116-b04d-49e0de98113b (1).jpg" t="Include" />
+          <e p="pxqrocxwsjcc_4MlYllOIEEiqMyEcGK0qQ8_ROSÉ CHAMPAGNE CUPCAKES-LANDSCAPE-NO GRAPHIC.jpg" t="Include" />
+          <e p="raspberry-smoothie-3.jpg" t="Include" />
+          <e p="strawberry-smoothie-recipe-18.jpg" t="Include" />
+        </e>
+      </e>
+      <e p="Project2.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
